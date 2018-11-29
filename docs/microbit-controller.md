@@ -42,7 +42,7 @@ Dit is natuurlijk nog niet heel spannend, maar je ziet dat er eigenlijk niet ech
 
 Bij de blokken in de vorige stap zag je dat de Scratch kat nadat je de "A" knop had ingedrukt de hele tijd "Hallo!" bleef zeggen, en dat je de micro:bit steeds opnieuw naar links moest kantelen om de kat een stukje te laten bewegen. Dat kan handiger, en werkt op dezelfde manier als wanneer je gewoon de knoppen van je toetsenbord gebruikt. Door een *herhaal* te gebruiken samen met een *als ... dan ...* blok te gebruiken kun je steeds controleren of een knop is ingedrukt, de micro:bit wordt gekanteld, enzovoorts. Dan ziet je programma er bijvoorbeeld zo uit:
 
-​             <img src="/Users/pbuur/Documents/prive/coderdojo/47-microbit/microbit-repo/docs/img/microbit-controller-3.png" style="height:275px" />               <img src="/Users/pbuur/Documents/prive/coderdojo/47-microbit/microbit-repo/docs/img/microbit-controller-4.png" style="height:250px" />
+​             <img src="img/microbit-controller-3.png" style="height:275px" />               <img src="img/microbit-controller-4.png" style="height:250px" />
 
 Je kunt de verschillende *als ... dan ...* blokken natuurlijk ook in hetzelfde *herhaal* blok zetten.
 
@@ -59,4 +59,3 @@ Nu je de Scratch kat kunt laten bewegen met de micro:bit kun je hier een spellet
 * [Google Drive van CoderDojo Zoetermeer](https://drive.google.com/drive/folders/0B-NwRJ9NsROUbnByYlgyOHgxUFE) met opdrachten op verschillende niveau's.
 
 Let op: deze opdrachten zijn wel voor Scratch 2 geschreven, als je daardoor dingen niet kunt vinden of niet snapt in Scratch 3 laat het de mentoren weten!
-
