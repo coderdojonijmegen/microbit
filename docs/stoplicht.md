@@ -15,7 +15,9 @@ In deze opdracht ga je een stoplicht maken. Het stoplicht heeft twee kleuren: gr
 #### Alles aansluiten
 Net als batterijen hebben LED lampjes een plus en een min. Als je goed kijkt zijn de pootjes van de LED's niet even lang: het net iets *langere pootje is de plus*, de kortere de min. Gebruik de krokodillenbekken om de plussen van de rode en groene LED vast te maken op aansluitingen Pin 0 en Pin 1 van de micro:bit, en de minnen aan de GND (je kunt de eerste krokodillenbek aan GND vastmaken en de tweede aan de eerste). Het zou er dan ongeveer zo uit moeten zien:
 
-<img src="img/stoplicht-aansluiten-licht.png" style="height:300px" />
+<img src="img/stoplicht-aansluiten.png" style="height:300px" />
+
+
 
 ### Het programma
 
