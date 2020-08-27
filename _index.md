@@ -27,9 +27,10 @@ Zie de micro:bit website voor een volledig overzicht.
 
 ## Materiaal
 
-- [Steen papier schaar]({{< ref "steen-papier-schaar" >}})
-- [Stoplicht]({{< ref "stoplicht" >}})
-- [Gebruik de micro:bit als controller in Scratch]({{< ref "microbit-controller" >}})
+- [Steen papier schaar](steen-papier-schaar/)
+- [Stoplicht](stoplicht/)
+- [Gebruik de micro:bit als controller in Scratch](microbit-controller/)
+- [Maqueen](maqueen/)
 
 
 Wil je de micro:bit met **Python** programmeren, probeer dan de [MicroPython](https://microbit.org/nl/guide/python/) gids.

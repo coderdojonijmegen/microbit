@@ -50,14 +50,14 @@ Bij de blokken in de vorige stap zag je dat de Scratch kat nadat je de "A" knop 
 
 Je kunt de verschillende *als ... dan ...* blokken natuurlijk ook in hetzelfde *herhaal* blok zetten.
 
-Als je de beweging van je figuur vloeiender wilt maken kun je bijvoorbeeld kijken naar [deze instructies](https://coderdojonijmegen.github.io/scratch3/#platform-spel), waarbij je dan de toetsenbordknoppen moet vervangen door knoppen en bewegingen van de micro:bit. Je kunt ook spelen met kantelen naar voren en achteren, of schudden met de micro:bit.
+Als je de beweging van je figuur vloeiender wilt maken kun je bijvoorbeeld kijken naar [deze instructies](/instructies/scratch-videosensing/#platform-spel), waarbij je dan de toetsenbordknoppen moet vervangen door knoppen en bewegingen van de micro:bit. Je kunt ook spelen met kantelen naar voren en achteren, of schudden met de micro:bit.
 
 
 ### Stap 4: Een spelletje bouwen
 
 Nu je de Scratch kat kunt laten bewegen met de micro:bit kun je hier een spelletje omheen bedenken. Heb je zelf geen ideeën? Vraag de mentoren of kijk eens hier:
 
-* [Onze andere Micro:Bit opdrachten]({{< ref "microbit" >}})
+* [Onze andere Micro:Bit opdrachten](/instructies/microbit/)
 * [Scratch projecten](https://scratch.mit.edu) en zoek bijvoorbeeld op 'platform' of 'vliegen' (waarschijnlijk werkt dit alleen in Google Chrome)
 * [Google Drive van CoderDojo Zoetermeer](https://drive.google.com/drive/folders/0B-NwRJ9NsROUbnByYlgyOHgxUFE) met opdrachten op verschillende niveau's.
 
