@@ -4,6 +4,7 @@ date: 2020-08-27T07:29:39+02:00
 draft: false
 toc: true
 headercolor: "teal-background"
+taal: Scratch
 ---
 
 In deze opdracht ga je het spelletje steen-papier-schaar programmeren op de micro:bit, en dit spelen tegen iemand anders.
