@@ -16,6 +16,7 @@ Micro:Bit is een piepklein computertje met superveel mogelijkheden om te program
 - 2 knoppen
 - een licht- en temperatuursensor
 - bewegingssensoren
+
 Zie de micro:bit website voor een volledig overzicht.
 
 ## Benodigdheden
