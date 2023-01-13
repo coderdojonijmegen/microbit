@@ -42,7 +42,9 @@ naar de micro:bit.
 
 Op de micro:bit website staan ook een groot aantal opdrachten met verschillende moeilijkheidsniveaus, en ook de Raspberry
 Pi Foundation heeft een paar projecten met de micro:bit gedeeld. Als je Engels als taal kiest zijn er soms nog wat extra
-uitdagingen die niet in het Nederlands beschikbaar zijn.
+uitdagingen die niet in het Nederlands beschikbaar zijn. **Let op**: sommige opdrachten maken gebruik van functies die
+alleen de micro:bit versie 2 heeft, zoals een microfoon en speaker. Jouw micro:bit kan wel geluid maken maar dan moet er
+een luidsprekertje op worden aangesloten.
 
 - [projecten op de micro:bit website](https://microbit.org/nl/projects/make-it-code-it/)
 - [projecten op de Raspberry Pi Foundation website](https://projects.raspberrypi.org/nl-NL/projects?hardware%5B%5D=microbit)
