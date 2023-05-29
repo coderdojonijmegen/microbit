@@ -4,6 +4,7 @@ date: 2020-08-27T08:18:00+02:00
 draft: false
 toc: true
 headercolor: "teal-background"
+onderwerp: bot
 ---
 
 Micro:Bit is een piepklein computertje met superveel mogelijkheden om te programmeren.
